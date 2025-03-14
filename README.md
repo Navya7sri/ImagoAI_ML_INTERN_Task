@@ -1,6 +1,6 @@
 # Python script to generate README.md file
 
-readme_content = """\
+
 # **DON Concentration Prediction Using Machine Learning and Transformer Models**
 
 ## **1. Overview**
